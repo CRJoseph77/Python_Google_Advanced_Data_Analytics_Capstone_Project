@@ -15,7 +15,7 @@ Data visualization: matplotlib, seaborn.
 Machine learning: scikit learn, xgboost.
 
 ## Data
-Source Data: The data used for this project can be found on Kaggle (https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
+Source Data: The data used for this project is an HR dataset that can be found on Kaggle. (https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
 
 ## Code Structure
 1. Importing packages and data - Relevant packages and [data](Capstone data clean.csv) were imported into Python.
