@@ -1,3 +1,4 @@
+![](Google_Advanced_Data_Analytics_Capstone_Photo.PNG)
 # Google Advanced Data Analytics Certificate Capstone Project
 
 ## Project Overview
