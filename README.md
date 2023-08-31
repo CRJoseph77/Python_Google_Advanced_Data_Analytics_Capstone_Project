@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project was created as part of my completion of the Google Advanced Data Analytics Certificate program. The capstone project was intended to be a culmination of all the skills contained in the program. These skills include Python, exploratory data analysis, data cleaning, data analysis, basic supervised modeling techniques, model evaluation techniques, data visualization, and other relevant skills. 
+
 The capstone project involved using HR data to help a fictional company (Salifort Motors) understand factors that influence and predict employee turnover. The dataset was explored, cleaned, and structured in preparation for modeling. Then, multiple models were fit and evaluated. The models chosen for this project were a logistic regression model, a random forest model, and a gradient boosting model. All three models were evaluated and tuned. Visualizations were created to illustrate model performance on validation data. Finally, a champion model was selected based on performance on validation data and that model was evaluated on unseen test data to provide an idea of future model performance. 
 
 ## Installation and Setup
