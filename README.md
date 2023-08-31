@@ -7,11 +7,11 @@ The capstone project involved using HR data to help a fictional company (Salifor
 
 ## Installation and Setup
 ### Codes and Resources Used
-Editor Used: This project was completed in an online Jupyter Notebook (ipynb).
+Editor Used: This project was completed in an online Jupyter Notebook.
 
 Python Version: Python version 3. 
 
-### Python packages used
+### Python Packages Used
 Data manipulation: pandas, numpy, datetime.
 
 Data visualization: matplotlib, seaborn.
@@ -35,7 +35,7 @@ Source Data: The data used for this project is an HR dataset that can be found o
 
 5. The final models - the best-performing random forest and gradient boosting model were further explored and evaluated. The gradient boosting model was selected as the champion model and tested on unseen test data to evaluate future model performance. Visualizations were created to identify the most predictive features. 
 
-## Results and evaluation
+## Results and Evaluation
 A full executive summary can be viewed [here](Capstone_summary.pdf). The data was successfully cleaned and prepared for modeling and the three supervised models were trained using training data and evaluated and tuned using validation data. The gradient boosting model performed the best of the three models, followed by the random forest model, and then the logistic regression model. The features that were most relevant in predicting whether or not an employee would leave the company were monthly hours worked, satisfaction level, evaluation score, and number of projects. Once all three models were tuned and evaluated, the gradient boosting model was selected as the champion model, and future model performance was evaluated using unseen test data. 
 
 ## References
