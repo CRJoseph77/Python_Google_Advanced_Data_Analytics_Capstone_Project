@@ -40,6 +40,7 @@ A full executive summary can be viewed [here](Capstone_summary.pdf). The data wa
 
 ## References
 Kaggle Data: https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
+
 Google Advanced Data Analytics Certificate Capstone Course: https://www.coursera.org/learn/google-advanced-data-analytics-capstone
 
 ## License
