@@ -1,5 +1,6 @@
 ![](GADAC_Capstone_Photo.PNG)
 # Google Advanced Data Analytics Certificate Capstone Project
+Using human resources data to predict employee turnover in Python.
 
 ## Project Overview
 This project was created as part of my completion of the Google Advanced Data Analytics Certificate program. The capstone project was intended to be a culmination of all the skills contained in the program. These skills include Python, exploratory data analysis, data cleaning, data analysis, basic supervised modeling techniques, model evaluation techniques, data visualization, and other relevant skills. 
