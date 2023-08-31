@@ -8,10 +8,14 @@ The capstone project involved using HR data to help a fictional company (Salifor
 ## Installation and Setup
 ### Codes and Resources Used
 Editor Used: This project was completed in an online Jupyter Notebook (ipynb).
+
 Python Version: Python version 3. 
-Python packages used
+
+### Python packages used
 Data manipulation: pandas, numpy, datetime.
+
 Data visualization: matplotlib, seaborn.
+
 Machine learning: scikit learn, xgboost.
 
 ## Data
