@@ -18,7 +18,7 @@ Machine learning: scikit learn, xgboost.
 Source Data: The data used for this project can be found on Kaggle (https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
 
 ## Code Structure
-1. Importing packages and data - Relevant packages and data were imported into Python.
+1. Importing packages and data - Relevant packages and [data](Capstone data clean.csv) were imported into Python.
    
 2. Initial exploratory data analysis and cleaning - The HR dataset was explored, and descriptive statistics were examined. Columns were renamed to ensure consistency. The data was checked for missing values and duplicates. No duplicates or missing values were discovered. The data was checked for outliers, and outliers were explored. 
 
