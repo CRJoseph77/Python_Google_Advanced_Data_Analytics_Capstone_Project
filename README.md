@@ -23,7 +23,7 @@ Machine learning: scikit learn, xgboost.
 ## Data
 Source Data: The data used for this project is a human resources dataset that can be found on Kaggle. (https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
 
-## Code Structure
+## [Code Structure](GADAC_Capstone_for_portfolio.ipynb)
 1. Importing packages and data - Relevant packages and data were imported into Python.
    
 2. Initial exploratory data analysis and cleaning - The human resources dataset was explored, and descriptive statistics were examined. Columns were renamed to ensure consistency. The data was checked for missing values and duplicates. No duplicates or missing values were discovered. The data was checked for outliers, and outliers were explored. 
